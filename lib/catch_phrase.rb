@@ -1,4 +1,4 @@
 def catch_phrase
-  
-  puts phrase
+  saying = "some phrase"
+  puts "this is some phrase"
 end
